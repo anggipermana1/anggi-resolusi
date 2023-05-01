@@ -2,6 +2,8 @@ RENCANA OLAHRAGA ANGGI
 - PUSH UP 
   * 20 kali
   * variasi push up
-- PULL UP
+    ^ Diagonal push up
+    ^ Diamond push up
 - SIT UP
+  ^ Side sit up
 - SQUAT
