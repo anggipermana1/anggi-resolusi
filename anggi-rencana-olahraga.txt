@@ -4,6 +4,7 @@ RENCANA OLAHRAGA ANGGI
   * variasi push up
     ^ Archer push up
     ^ Diamond push up
+    ^ Diagonal push up
 - PULL UP
 - SIT UP
   ^ Side sit up
